@@ -1,0 +1,8 @@
+# Ignore js files & cdk out
+deploy/**/*.js
+deploy/cdk.out
+deploy/node_modules
+# ignore rust target
+target/
+
+
